@@ -25,11 +25,13 @@ An tech-Novice—meaning someone who isn't a cybersecurity professional or devel
 
       Critical Thinking Skills:
           Solving the challenges in Gruyere encourages problem-solving and logical reasoning, skills that are useful in everyday decision-making.
-
+          
 Overall, Google Gruyere provides a safe and interactive way for users to understand why cybersecurity matters and how to take personal steps toward protecting their online presence.
-
-
-
-
+Now,I want you to open the shared link and do these steps:
+      Sign up for an account for yourself to use when hacking. Do not use the same password for your Gruyere account as you use for any real service.
+      Fill in your account's profile, including a username,and a Private snippet.
+      Create a snippet (via "New Snippet") and type anything.
+why?
+To simulate accounts real account attacks and administrating tools used to manage a server.
 
 https://google-gruyere.appspot.com/
