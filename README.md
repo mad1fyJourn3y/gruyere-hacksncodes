@@ -29,7 +29,7 @@ An tech-Novice—meaning someone who isn't a cybersecurity professional or devel
 Overall, Google Gruyere provides a safe and interactive way for users to understand why cybersecurity matters and how to take personal steps toward protecting their online presence.
 Now,I want you to open the shared link and do these steps:
 
-      {Sign up for an account for yourself to use on the website.
+      Sign up for an account for yourself to use on the website.
       Fill in your account's profile, including a username,and a Private snippet.
       Create a snippet (via "New Snippet") and type a messege,that messege along with your username will be on the webpage. 
 why?
